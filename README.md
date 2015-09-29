@@ -16,7 +16,8 @@ Requerimentos
 
 Instalação
 ----------
-Criação do banco que se localiza em /db/db_ponto.sql.
+Criação do banco que se localiza em /db/db_ponto.sql
+
 E colocar o resto dos arquivos em um servidor apache.
 
 OBS: A página de relatório, é apenas acessada a partir da url. 
